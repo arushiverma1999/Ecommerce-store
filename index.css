@@ -1,0 +1,38 @@
+#banner_image{
+    padding-top: 75px;
+     padding-bottom: 50px;
+     text-align: center;
+     color: #f8f8f8;
+     background:url(assests/intro-bg_1.jpg) no-repeat center center; 
+     background-size: cover;
+     height:900px;
+}
+#banner_content{
+position: relative;
+ padding-top: 6%;
+ padding-bottom: 6%;
+ margin-top: 12%;
+ margin-bottom: 12%;
+ background-color: rgba(0, 0, 0, 0.7);
+ max-width: 660px;
+}
+footer{
+position:fixed;
+ padding: 10px 0;
+ background-color: #101010;
+ color:#9d9d9d;
+ bottom: 0;
+ width: 100%;
+}
+.location
+{
+    position:relative;
+    margin-top:8%;
+}
+.jumbotron{
+    margin-top:100px;
+}
+.product{
+    margin-left:10%;
+    margin-right:10%;
+}
